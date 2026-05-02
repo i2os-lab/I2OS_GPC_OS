@@ -1,3 +1,4 @@
+**I2OS_GPC is a structure-driven market response OS that executes only after reality-confirmed convergence.**
 # I2OS_GPC  
 ## Modular Market Response Operating System
 

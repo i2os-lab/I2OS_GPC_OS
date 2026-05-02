@@ -1,7 +1,7 @@
 # I2OS_GPC  
 ## Modular Market Response Operating System
 
-➡️ [Read Full Paper (EN PDF)](./docs/I2OS_GPC_OS_Paper_EN.pdf)
+➡️ [Read Full Paper (EN PDF)](./I2OS_GPC_OS_Paper_EN.pdf)
 
 ---
 

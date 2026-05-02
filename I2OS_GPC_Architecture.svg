@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1080" viewBox="0 0 980 1080">
+  <defs>
+    <style>
+      .box { fill:#ffffff; stroke:#111111; stroke-width:2; rx:18; }
+      .title { font-family:Arial, sans-serif; font-size:26px; font-weight:700; fill:#111111; }
+      .text { font-family:Arial, sans-serif; font-size:18px; fill:#111111; }
+      .small { font-family:Arial, sans-serif; font-size:15px; fill:#333333; }
+      .arrow { stroke:#111111; stroke-width:3; fill:none; marker-end:url(#arrowhead); }
+      .dashed { stroke-dasharray:10 8; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#111111"/>
+    </marker>
+  </defs>
+
+  <text x="490" y="45" text-anchor="middle" class="title">I2OS_GPC Modular Market Response OS</text>
+  <text x="490" y="75" text-anchor="middle" class="small">Sensor → Scanner → Survival → Reality → Execution → Collapse → Memory</text>
+
+  <rect x="240" y="105" width="500" height="82" class="box"/>
+  <text x="490" y="138" text-anchor="middle" class="text">Market Field</text>
+  <text x="490" y="166" text-anchor="middle" class="small">Price / Spread / Tick / Noise</text>
+
+  <line x1="490" y1="187" x2="490" y2="232" class="arrow"/>
+
+  <rect x="240" y="232" width="500" height="82" class="box"/>
+  <text x="490" y="265" text-anchor="middle" class="text">Sensor Module</text>
+  <text x="490" y="293" text-anchor="middle" class="small">Flow / Sync / Energy / Phase / Pulse / Eres / Prob</text>
+
+  <line x1="490" y1="314" x2="490" y2="359" class="arrow"/>
+
+  <rect x="240" y="359" width="500" height="82" class="box"/>
+  <text x="490" y="392" text-anchor="middle" class="text">Scanner Module</text>
+  <text x="490" y="420" text-anchor="middle" class="small">Candidate Detection / PREGO</text>
+
+  <line x1="490" y1="441" x2="490" y2="486" class="arrow"/>
+
+  <rect x="240" y="486" width="500" height="82" class="box"/>
+  <text x="490" y="519" text-anchor="middle" class="text">Survival Module</text>
+  <text x="490" y="547" text-anchor="middle" class="small">Pending / Continuation / Decay Check</text>
+
+  <line x1="490" y1="568" x2="490" y2="613" class="arrow"/>
+
+  <rect x="240" y="613" width="500" height="82" class="box"/>
+  <text x="490" y="646" text-anchor="middle" class="text">Reality Module</text>
+  <text x="490" y="674" text-anchor="middle" class="small">Fav Pips / dFlow / Pulse / Initial Move</text>
+
+  <line x1="490" y1="695" x2="490" y2="740" class="arrow"/>
+
+  <rect x="240" y="740" width="500" height="82" class="box"/>
+  <text x="490" y="773" text-anchor="middle" class="text">Execution Gate</text>
+  <text x="490" y="801" text-anchor="middle" class="small">GO / NO_GO / Safety Clear</text>
+
+  <line x1="490" y1="822" x2="490" y2="867" class="arrow"/>
+
+  <rect x="240" y="867" width="500" height="82" class="box"/>
+  <text x="490" y="900" text-anchor="middle" class="text">Collapse Module</text>
+  <text x="490" y="928" text-anchor="middle" class="small">INIT_CUT / Profit Protect / Structure Collapse</text>
+
+  <line x1="490" y1="949" x2="490" y2="994" class="arrow"/>
+
+  <rect x="240" y="994" width="500" height="62" class="box"/>
+  <text x="490" y="1020" text-anchor="middle" class="text">Memory Module</text>
+  <text x="490" y="1045" text-anchor="middle" class="small">Decision / Exet / Close / Snapshot Logs</text>
+
+  <path d="M740 1024 C910 1024 910 273 740 273" class="arrow dashed"/>
+</svg>

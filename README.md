@@ -36,9 +36,9 @@ Instead, it executes trades only after multi-layer structural verification and r
 
 ## Documentation
 
-- 📄 [Paper (Markdown)](./docs/I2OS_GPC_Modular_OS_Paper.md)  
-- 📊 [Architecture Diagram](./docs/I2OS_GPC_Architecture.svg)  
-- 🔍 [v7.3M vs v7.3N Comparison](./docs/v73M_vs_v73N_Comparison.md)  
+- 📄 [Paper (Markdown)](./I2OS_GPC_Modular_OS_Paper.md)  
+- 📊 [Architecture Diagram](./I2OS_GPC_Architecture.svg)  
+- 🔍 [v7.3M vs v7.3N Comparison](./v73M_vs_v73N_Comparison.md)  
 
 ---
 
